@@ -1,5 +1,5 @@
-Edited the Hologram shader to look like a portal with swirling pattern
-<img width="1102" height="656" alt="image" src="https://github.com/user-attachments/assets/2668cf91-3a84-4020-87e7-095478d029ce" />
-<img width="572" height="341" alt="image" src="https://github.com/user-attachments/assets/4702b300-ac98-43bf-b018-cc3f135627dd" />
+Created a mask over a texture to have a random scrolling pattern over it with parts missing
+<img width="1701" height="792" alt="image" src="https://github.com/user-attachments/assets/34289684-962f-445e-95ad-202ff15c0d38" />
+did it by using scrolling  texture, used noise, and used it to mask over another texture
 
-Used a twist to create a swirl pattern but it had too much of a pattern so I used vronoi noise to break it up and make it kind feverdreamish, this shader looks cool.
+<img width="1052" height="727" alt="image" src="https://github.com/user-attachments/assets/3eb561c3-dac3-4abe-aceb-1444f662e79d" />
